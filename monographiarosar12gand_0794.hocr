@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monographiarosar12gand_0794.png"; bbox 0 0 1664 2760; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 106 2449 1546 2605">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 106 2421 1546 2605">
+     <span class='ocr_line' id='line_1_1' title="bbox 106 2449 1546 2605; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 106 2449 1546 2605; x_wconf 40' lang='grc' dir='ltr'>ἒέῧέἓέἒ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 189 347 1584 492">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 132 347 1584 492">
+     <span class='ocr_line' id='line_1_2' title="bbox 189 347 1584 492; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 189 347 1584 492; x_wconf 40' lang='grc' dir='ltr'>ᾓῧῇηξέξέ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 181 210 1582 362">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 181 210 1582 362">
+     <span class='ocr_line' id='line_1_3' title="bbox 181 210 1582 362; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 1207 281 1582 354; x_wconf 48' lang='grc' dir='ltr'>,ἐξ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1049 298 1179 341; x_wconf 60' lang='grc' dir='ltr'>Ξ</span> <span class='ocrx_word' id='word_1_5' title='bbox 733 210 1031 352; x_wconf 41' lang='lat' dir='ltr'>{ae</span> <span class='ocrx_word' id='word_1_6' title='bbox 181 213 693 362; x_wconf 38' lang='grc' dir='ltr'>ῗὲἒρἣὲ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 733 140 947 174">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 733 140 947 174">
+     <span class='ocr_line' id='line_1_4' title="bbox 733 140 947 174; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 733 140 947 174; x_wconf 50' lang='grc' dir='ltr'>ΙῗΣΙ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

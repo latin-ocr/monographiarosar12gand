@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monographiarosar12gand_0033.png"; bbox 0 0 1664 2760; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 47 1890 1447 2034">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 47 1890 1447 2034">
+     <span class='ocr_line' id='line_1_1' title="bbox 47 1961 1376 2034; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1186 1972 1376 2034; x_wconf 52' lang='lat' dir='ltr'>ss.{{</span> <span class='ocrx_word' id='word_1_2' title='bbox 973 1961 1167 2029; x_wconf 44' lang='grc' dir='ltr'>,ἒᾷέ</span> <span class='ocrx_word' id='word_1_3' title='bbox 720 1964 957 2009; x_wconf 29' lang='grc' dir='ltr'>,ἑάφθη</span> <span class='ocrx_word' id='word_1_4' title='bbox 661 1979 700 2006; x_wconf 55' lang='grc' dir='ltr'><em>ε</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 488 1964 633 2010; x_wconf 50' lang='grc' dir='ltr'>ἐς.</span> <span class='ocrx_word' id='word_1_6' title='bbox 431 1971 461 2004; x_wconf 41' lang='grc' dir='ltr'>Ἡ.</span> <span class='ocrx_word' id='word_1_7' title='bbox 328 1975 412 2029; x_wconf 24' lang='grc' dir='ltr'>ἔφη</span> <span class='ocrx_word' id='word_1_8' title='bbox 47 1964 308 2012; x_wconf 46' lang='lat' dir='ltr'>{3ae</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 109 1890 1447 1971; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 1025 1894 1447 1958; x_wconf 29' lang='lat' dir='ltr'>4}&amp;{v</span> <span class='ocrx_word' id='word_1_10' title='bbox 877 1901 1004 1957; x_wconf 59' lang='grc' dir='ltr'>«ἑὲ</span> <span class='ocrx_word' id='word_1_11' title='bbox 759 1905 859 1964; x_wconf 40' lang='grc' dir='ltr'>Ξμ</span> <span class='ocrx_word' id='word_1_12' title='bbox 672 1890 741 1942; x_wconf 55' lang='grc' dir='ltr'>,ἒ</span> <span class='ocrx_word' id='word_1_13' title='bbox 563 1898 648 1971; x_wconf 30' lang='grc' dir='ltr'>ἐξ</span> <span class='ocrx_word' id='word_1_14' title='bbox 109 1893 541 1967; x_wconf 41' lang='lat' dir='ltr'>{awa-aff}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 109 991 1287 1112">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 109 991 1287 1112">
+     <span class='ocr_line' id='line_1_3' title="bbox 109 991 1287 1112; textangle 270"><span class='ocrx_word' id='word_1_15' title='bbox 1039 1030 1287 1105; x_wconf 40' lang='grc' dir='ltr'>,κεέἱ</span> <span class='ocrx_word' id='word_1_16' title='bbox 876 1035 1029 1109; x_wconf 41' lang='grc' dir='ltr'><em>ἒ</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 821 1041 862 1081; x_wconf 53' lang='lat'>0.</span> <span class='ocrx_word' id='word_1_18' title='bbox 666 1030 800 1106; x_wconf 48' lang='lat' dir='ltr'>{Q</span> <span class='ocrx_word' id='word_1_19' title='bbox 643 1062 653 1077; x_wconf 83' lang='lat'>..</span> <span class='ocrx_word' id='word_1_20' title='bbox 503 1014 626 1085; x_wconf 49' lang='lat' dir='ltr'>N&amp;</span> <span class='ocrx_word' id='word_1_21' title='bbox 109 991 482 1112; x_wconf 18' lang='lat' dir='ltr'>NE}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 304 418 1004 441">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 304 418 1004 441">
+     <span class='ocr_line' id='line_1_4' title="bbox 304 418 1004 441; textangle 270"><span class='ocrx_word' id='word_1_22' title='bbox 304 418 1004 441; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
